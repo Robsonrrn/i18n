@@ -1,0 +1,8 @@
+/vendor/
+.idea/
+/teste.php
+/tmp/
+/.settings/
+/.buildpath
+/.project
+.phpunit.result.cache
